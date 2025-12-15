@@ -1,4 +1,4 @@
-<img width="675" height="107" alt="image" src="https://github.com/user-attachments/assets/2c10a8e3-c75b-4e83-9656-011fe539a79c" /># [SQL] MiniSQL-Hackathon
+# [SQL] MiniSQL-Hackathon
 ## I. Introduction
 I built this mini project to get hands-on practice with SQL fundamentals and sharpen my problem-solving mindset
 ## II. Questions
